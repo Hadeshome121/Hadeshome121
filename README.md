@@ -15,7 +15,7 @@
 <br/>
 
 <!-- Professional Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=1000%2B+Problems+Solved+%E2%80%A2+Top+1-3%25+on+LeetCode;Building+Scalable+Solutions+Through+Clean+Code;Competitive+Programming+%E2%80%A2+DSA+Expert+%E2%80%A2+Algorithm+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=1000%2B+Problems+Solved+%E2%80%A2+Top+on+LeetCode;Building+Scalable+Solutions+Through+Clean+Code;Competitive+Programming+%E2%80%A2+DSA+Expert+%E2%80%A2+Algorithm+Architect" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -660,9 +660,7 @@ _August 2023 – May 2027 (Expected) • Jaipur, Rajasthan, India_
 
 <img src="https://img.shields.io/badge/Rating-XXXX-1F8ACB?style=for-the-badge&labelColor=0D1117"/>
 
-**Max Rating**: XXXX (Specialist/Expert)
-
-**Profile**: [codeforces.com/profile/yourhandle](#)
+**Max Rating**: 1700 (Specialist/Expert)
 
 **Participation**: Regular contestant in Div 2/3 rounds
 
@@ -689,9 +687,9 @@ _August 2023 – May 2027 (Expected) • Jaipur, Rajasthan, India_
 **AtCoder**: Regular contest participation
 
 **Contest Achievements**:
-- Ranked **Top X%** in [Contest Name]
+- Ranked **Top X%** in [HACK_X]
 - Institute rank **#N** in campus contests
-- Solved **Y/Z** problems in major hackathons
+- Solved **Full Stack** problems in major hackathons
 
 **Organized Events**:
 - Campus contest with 120+ participants
@@ -706,53 +704,6 @@ _August 2023 – May 2027 (Expected) • Jaipur, Rajasthan, India_
 
 <!-- GitHub Stats -->
 <div align="center">
-
-## 📈 **DEVELOPMENT ACTIVITY & CONTRIBUTIONS**
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourhandle&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourhandle&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
-
-</div>
-
----
-
-<!-- Skills Summary -->
-<div align="center">
-
-## 🎯 **PROFESSIONAL COMPETENCIES SUMMARY**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### **Problem Solving**
-
-<img src="https://img.shields.io/badge/Rating-Expert-00D4AA?style=for-the-badge&labelColor=0D1117"/>
-
-1000+ problems solved across platforms
-
-Top 1-3% globally on LeetCode
-
-Strong in DP, Graphs, Trees
-
-</td>
-<td align="center" width="25%">
 
 ### **Code Quality**
 
