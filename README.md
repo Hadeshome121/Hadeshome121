@@ -10,12 +10,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=280&section=header&text=NAVROOP%20SINGH%20WALIA&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&stroke=ffffff&strokeWidth=1&desc=Computer%20Science%20Engineer%20•%20Competitive%20Programmer%20•%20Problem%20Solver&descSize=20&descAlign=50&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=280&section=header&text=NAVROOP%20SINGH%20WALIA&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&stroke=ffffff&strokeWidth=1&desc=Computer%20Science%20Engineer%20•%20Programmer%20•%20Problem%20Solver&descSize=20&descAlign=50&descAlignY=68" />
 
 <br/>
 
 <!-- Professional Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=1000%2B+Problems+Solved+%E2%80%A2+Top+on+LeetCode;Building+Scalable+Solutions+Through+Clean+Code;Competitive+Programming+%E2%80%A2+DSA+Expert+%E2%80%A2+Algorithm+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=1000%2B+Problems+Solved+%E2%80%A2+Top+on+LeetCode;Building+Scalable+Solutions+Through+Clean+Code;Programming+%E2%80%A2+DSA+Expert+%E2%80%A2+Algorithm+" alt="Typing SVG" />
 
 <br/>
 <br/>
